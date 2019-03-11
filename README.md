@@ -1,16 +1,9 @@
 # app
 
-A new Flutter project.
+<p>Projeto desenvolvido utilizando framework Flutter.</p>
 
-## Getting Started
+<p>Aplicativo desenvolvido com base em layout enviado em grupo do telegram para atender ao desafio do grupo Flutterando( maior comunidade de flutter e dart :)</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![Screenshot](https://github.com/HeitorGonzaga/simple_list/blob/master/simple_list_01.jpg?raw=true)
