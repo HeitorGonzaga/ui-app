@@ -1,8 +1,8 @@
-# app
+# App Clone UI
 
-<p>Projeto desenvolvido utilizando framework Flutter.</p>
+<p>Project developed in Flutter.</p>
 
-<p>Aplicativo desenvolvido com base em layout enviado em grupo do telegram para atender ao desafio do grupo Flutterando( maior comunidade de flutter e dart :)</p>
+<p>Application developed based on a layout sent in a group of the telegram to meet the challenge of the group Flutterando (largest community of flutter and dart :)</p>
 
 
 
@@ -10,3 +10,4 @@
 ![Screenshot](https://github.com/HeitorGonzaga/ui-app/blob/master/images/app2.jpg?raw=false)
 ![Screenshot](https://github.com/HeitorGonzaga/ui-app/blob/master/images/app3.jpg?raw=false)
 ![Screenshot](https://github.com/HeitorGonzaga/ui-app/blob/master/images/app4.jpg?raw=false)
+
